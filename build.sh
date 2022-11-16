@@ -18,3 +18,5 @@ else
   javac Hello.java
 fi
 java Hello
+
+echo $passed_variable
